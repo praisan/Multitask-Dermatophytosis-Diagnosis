@@ -33,13 +33,13 @@ The core model uses an **EfficientNetV2 Medium** backbone, pretrained on ImageNe
 
 ## Usage (Inference)
 
-The provided script `predict.py` demonstrates how to load the model and perform inference on a single image.
+The provided script `DeepTineaDiag.py` demonstrates how to load the model and perform inference on a single image.
 
 1.  **Prepare your image:** Make sure you have an image file (e.g., `your_image.jpg`) you want to classify.
 2.  **Modify the script:** Update the `image_path` variable in the script to point to your image file. You can adapt the main execution block like this:
 
     ```python
-    # predict.py (main execution block)
+    # DeepTineaDiag.py (main execution block)
     import numpy as np # Make sure numpy is imported
 
     # --- Include the MultitaskModel, load_model, preprocess_image, and predict functions here ---
@@ -89,7 +89,7 @@ The provided script `predict.py` demonstrates how to load the model and perform 
 
 3.  **Run the script:**
     ```bash
-    python predict.py
+    python DeepTineaDiag.py
     ```
 
 4.  **Output:** The script will print the predicted probabilities for each of the 2 classes.
