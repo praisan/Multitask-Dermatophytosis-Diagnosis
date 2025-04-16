@@ -85,8 +85,6 @@ The provided script `predict.py` demonstrates how to load the model and perform 
             print(f"Error: {e}. Please ensure the model weights and image file exist at the specified paths.")
         except Exception as e:
             print(f"An error occurred: {e}")
-
-    ```
     ```
 
 3.  **Run the script:**
