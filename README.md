@@ -4,11 +4,16 @@
 
 **"Deep Learning for Diagnosis of Tinea Corporis and Tinea Cruris: Artificial intelligence for diagnosis of dermatophytosis"**
 
-* **Authors:** Narachai Julanon MD^{1}, Anupol Panitchote MD^{2}, Prisan Padungweang^{3}, Charoen Choonhakarn MD^{1}, Suteeraporn Chaowattanapanit MD^{1}
-* **Paper Link:** Deep Learning for Diagnosis of Tinea Corporis and Tinea Cruris
-^{1}Division of Dermatology, Department of Medicine, Faculty of Medicine, Khon Kaen University, Khon Kaen, Thailand
-^{2}Division of Critical Care Medicine, Department of Medicine, Faculty of Medicine, Khon Kaen University, Khon Kaen, Thailand
-^{3}College of Computing, Khon Kaen University, Khon Kaen, Thailand
+* **Authors:** Narachai Julanon MD<sup>1</sup>, Anupol Panitchote MD<sup>2</sup>, Prisan Padungweang<sup>3</sup>, Charoen Choonhakarn MD<sup>1</sup>, Suteeraporn Chaowattanapanit MD<sup>1</sup>
+
+<sup>1</sup>Division of Dermatology, Department of Medicine, Faculty of Medicine, Khon Kaen University, Khon Kaen, Thailand
+
+<sup>2</sup>Division of Critical Care Medicine, Department of Medicine, Faculty of Medicine, Khon Kaen University, Khon Kaen, Thailand
+
+<sup>3</sup>College of Computing, Khon Kaen University, Khon Kaen, Thailand
+
+* **Paper:** Deep Learning for Diagnosis of Tinea Corporis and Tinea Cruris
+
 
 ## Overview
 
