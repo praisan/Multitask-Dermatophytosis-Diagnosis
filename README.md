@@ -6,10 +6,11 @@
 
 * **Authors:** Narachai Julanon MD<sup>1</sup>, Anupol Panitchote MD<sup>2</sup>, Prisan Padungweang<sup>3</sup>, Charoen Choonhakarn MD<sup>1</sup>, Suteeraporn Chaowattanapanit MD<sup>1</sup>
 * **Paper:** Deep Learning for Diagnosis of Tinea Corporis and Tinea Cruris
+* Journal of Cutaneous Medicine and Surgery. 2025;0(0). doi:10.1177/12034754251391809
 
 <sup>1</sup>Division of Dermatology, Department of Medicine, Faculty of Medicine, Khon Kaen University, Khon Kaen, Thailand \
 <sup>2</sup>Division of Critical Care Medicine, Department of Medicine, Faculty of Medicine, Khon Kaen University, Khon Kaen, Thailand \
-<sup>3</sup>College of Computing, Khon Kaen University, Khon Kaen, Thailand
+<sup>3</sup>Computer Science, College of Computing, Khon Kaen University, Khon Kaen, Thailand
 
 
 ## Overview
