@@ -28,7 +28,7 @@ The core model uses an **EfficientNetV2 Medium** backbone, pretrained on ImageNe
 
 * **Download Model Weights:**
     Download the pretrained model weights (`model_weights.pth`) from:  
-    [model_weights.pth - Google Drive](https://drive.google.com/file/d/1HmNw-HUnVZiwWpCZKOltnD_gHjHUI0aL/view?usp=drive_link)
+    [model_weights.pth - Google Drive](https://drive.google.com/file/d/14qQM_bYZuLIQpBhajbYi4QPnB3-fqgIi/view?usp=sharing)
     Place the `model_weights.pth` file in the root directory.
 
 ## Usage (Inference)
